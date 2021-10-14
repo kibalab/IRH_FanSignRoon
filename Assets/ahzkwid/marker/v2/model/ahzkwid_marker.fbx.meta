@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: d64be1cd0055fe74ca51b5ace3eed4e7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Cylinder.001
+    100006: Tip
+    100008: cap
+    100010: board
+    100012: board part2
+    100014: Cube
+    100016: Marker
+    100018: Point
+    100020: Point.001
+    100022: Point.002
+    100024: render
+    100026: Eraser
+    100028: board big size
+    100030: board part2 big size
+    100032: cap.001
+    100034: cap.002
+    100036: Marker.001
+    100038: Marker.002
+    100040: Tip.001
+    100042: Tip.002
+    400000: //RootNode
+    400002: Body
+    400004: Cylinder.001
+    400006: Tip
+    400008: cap
+    400010: board
+    400012: board part2
+    400014: Cube
+    400016: Marker
+    400018: Point
+    400020: Point.001
+    400022: Point.002
+    400024: render
+    400026: Eraser
+    400028: board big size
+    400030: board part2 big size
+    400032: cap.001
+    400034: cap.002
+    400036: Marker.001
+    400038: Marker.002
+    400040: Tip.001
+    400042: Tip.002
+    2100000: ahzkwids_Marker
+    2300000: Body
+    2300002: Cylinder.001
+    2300004: Tip
+    2300006: cap
+    2300008: board
+    2300010: board part2
+    2300012: Cube
+    2300014: Marker
+    2300016: render
+    2300018: Eraser
+    2300020: board big size
+    2300022: board part2 big size
+    2300024: cap.001
+    2300026: cap.002
+    2300028: Marker.001
+    2300030: Marker.002
+    2300032: Tip.001
+    2300034: Tip.002
+    3300000: Body
+    3300002: Cylinder.001
+    3300004: Tip
+    3300006: cap
+    3300008: board
+    3300010: board part2
+    3300012: Cube
+    3300014: Marker
+    3300016: render
+    3300018: Eraser
+    3300020: board big size
+    3300022: board part2 big size
+    3300024: cap.001
+    3300026: cap.002
+    3300028: Marker.001
+    3300030: Marker.002
+    3300032: Tip.001
+    3300034: Tip.002
+    4300000: Tip
+    4300002: Cylinder.001
+    4300004: Body
+    4300006: cap
+    4300008: Cube
+    4300010: board
+    4300012: board part2
+    4300014: render
+    4300016: Marker
+    4300018: Eraser
+    4300020: board big size
+    4300022: board part2 big size
+    4300024: Marker.002
+    4300026: cap.002
+    4300028: Tip.002
+    4300030: Marker.001
+    4300032: Tip.001
+    4300034: cap.001
+    10800000: Point
+    10800002: Point.001
+    10800004: Point.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QR
+    second: {fileID: 2100000, guid: f3a3bc4696f296a4797ba21019ed4d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ahzkwids_Marker
+    second: {fileID: 2100000, guid: fe632a62bda59694096021d12671c39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ahzkwids_Marker blue
+    second: {fileID: 2100000, guid: b329a7c041ecb4a49bf48ad789433f44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ahzkwids_Marker blue_tip
+    second: {fileID: 2100000, guid: bf2152f220944544eb4b912bd2186b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ahzkwids_Marker red
+    second: {fileID: 2100000, guid: aa85555f86f8b274ebc61a724bf7e06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ahzkwids_Marker red_tip
+    second: {fileID: 2100000, guid: a823ab6ae86cae0448e3f012f4b1435e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ahzkwids_Marker_tip
+    second: {fileID: 2100000, guid: 8c2bc88984f74ac478447c72b3f76a25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: al
+    second: {fileID: 2100000, guid: 16ee7f353bbc36a429e24f68edec44fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gray_Eraser
+    second: {fileID: 2100000, guid: cb8a85fc76cd70e4e999df327dab208c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pl
+    second: {fileID: 2100000, guid: 107f41d958150844f84bc33a9b35a92f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pl_Eraser
+    second: {fileID: 2100000, guid: ecacba894bc9142488cac6cbaf05cbe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: render
+    second: {fileID: 2100000, guid: e8864df43e280504fb19ea7720d5da4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: b56b9ae03785761478a2b22f66c0c740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_Eraser
+    second: {fileID: 2100000, guid: bf0ad5422f505c7409d85ea1c16c0ded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 0daedbeb3fd2645498bd67d12642f807, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
